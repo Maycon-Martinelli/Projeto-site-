@@ -1,1 +1,1 @@
-Olá esse prejeto é um pouco sobre os meus estudos de HTML, CSS E js.
+Olá esse projeto é um pouco sobre os meus estudos de HTML, CSS e JS.
